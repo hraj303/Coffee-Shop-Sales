@@ -10,3 +10,5 @@ Recommended Analysis
 5.what is the average price/order per person
 6.Which products are the best-selling in terms of quantity and revenue?
 7.How do sales vary by product category and type
+
+All the excel file and pdf are attached
