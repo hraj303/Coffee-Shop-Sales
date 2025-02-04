@@ -12,3 +12,4 @@ Recommended Analysis
 7.How do sales vary by product category and type
 
 
+f this project is to analyze retail sales 
